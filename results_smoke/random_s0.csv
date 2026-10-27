@@ -1,0 +1,100 @@
+system,seed,case,n,status,solved,first_ok,moves,sec
+random,0,QlkF4,2,failed,False,False,g8h8 e3e4 b6d4 b3e3,0.053019046783447266
+random,0,p6rxH,2,failed,False,False,f4d4 b1f1 d4c4 g3h2,0.050643205642700195
+random,0,qa8t0,1,failed,False,False,a8a7 h5g5,0.00011873245239257812
+random,0,K9nP1,1,failed,False,False,e8f8 g2g3,0.00011014938354492188
+random,0,KsPrV,1,failed,False,False,f8e7 f5c2,7.700920104980469e-05
+random,0,IEQSJ,2,failed,False,False,d6f6 c2f5 f6f5 f2f4,0.05071115493774414
+random,0,7EtER,2,failed,False,False,d5f4 g3f4 d3d8 a1a6,0.05000710487365723
+random,0,CFqW2,1,failed,False,False,e7e5 b1c3,0.0001442432403564453
+random,0,fxI5g,1,failed,False,False,f5f4 d3e4,8.296966552734375e-05
+random,0,WMwfp,2,failed,False,False,d8d3 a3a6 d3d1 a6f1,0.05080604553222656
+random,0,tUALC,2,failed,False,False,g4h4 a5a8 c8a8 g6h6,0.04987502098083496
+random,0,14q7h,2,failed,False,False,g6g3 c7a5 f8b8 a5a6,0.05022692680358887
+random,0,s4OH1,2,failed,False,False,a6b6 c3c5 b6b4 c5a5,0.0499420166015625
+random,0,il7IU,2,failed,False,False,e8e2 b1g1 d4g1 h1g1,0.04986977577209473
+random,0,KTSvo,2,failed,False,False,g8g7 g1f1 g7g6 a1a7,0.04997992515563965
+random,0,8SmDX,2,failed,False,False,h1h3 g7d7 d8d7 d3d4,0.05002093315124512
+random,0,C6Z83,2,failed,False,False,e6d5 e3e5 f2g2 f1g2,0.036257028579711914
+random,0,xZ6sv,3,failed,False,False,g4f2 d5d6 f2d3 c1d2 d7d6 h1h4,0.10080885887145996
+random,0,09lTC,2,failed,False,False,f7f6 g2g3 f6g5 g1h1,0.04993581771850586
+random,0,2Tfs8,1,failed,False,False,c6d4 h2h4,0.00010228157043457031
+random,0,XA76l,2,failed,False,True,g2f1 c2h7 f6h7 c1d2,0.0001480579376220703
+random,0,rDJPR,3,failed,False,False,g4f5 d1g1 f5f6 g1g2 f6e6 g3g4,0.1007847785949707
+random,0,gbdE7,1,failed,False,False,f5g3 e4g4,9.274482727050781e-05
+random,0,8ZIpv,2,failed,False,False,c5b4 e3h6 b4b3 g1h1,0.049794912338256836
+random,0,uTm9I,1,failed,False,False,g6g2 c7e8,0.00012183189392089844
+random,0,p19F5,1,failed,False,False,g6h7 e6c5,9.799003601074219e-05
+random,0,GZer7,1,failed,False,False,e4c5 c3c4,6.604194641113281e-05
+random,0,jR2WL,1,failed,False,False,g7f8 g3e3,9.107589721679688e-05
+random,0,Ok1Pz,1,failed,False,False,d6f4 b4b5,7.390975952148438e-05
+random,0,UnWOp,1,failed,False,False,h4h5 g2g4,6.914138793945312e-05
+random,0,8aaRA,1,failed,False,False,e3e2 h4d8,7.390975952148438e-05
+random,0,cZ9ST,3,failed,False,False,e8d7 b2c1 d7h3 c1e3 h3g2 h1g1,0.10048699378967285
+random,0,BUJBO,1,failed,False,False,f6g4 h4g6,0.00011014938354492188
+random,0,bNKPM,3,failed,False,False,c6d4 d2h6 d4e2 a2a4 e2c3 h6f4,0.09989094734191895
+random,0,lZCQr,3,failed,False,False,a4a3 c6d6 c1d1 f5g4 d1d6 g4f4,0.09990596771240234
+random,0,RxzYi,3,failed,False,False,d6e5 h6h4 g8g7 h4h5 e5h5 a2a4,0.10005974769592285
+random,0,jXSlm,3,failed,False,False,g5e5 d1d8 c8d8 a6d6 e5e1,0.0523068904876709
+random,0,Dn1N2,3,failed,False,False,e1d2 c6a5 d2h2,0.0021262168884277344
+random,0,RcAwI,4,failed,False,False,d8d3 c3c2 b3c2 b2b4 h7h5 g3e2 f4e2 g1h1,0.15047502517700195
+random,0,wVjzH,5,failed,False,False,e5f4 d7b7 e3c3 c1d1 a2a1,0.017347097396850586
+random,0,60vsm,3,failed,False,False,a4d7 f2f3 d7c8 e5f6 e4f6 g2g4,0.10090398788452148
+random,0,GeqyA,3,failed,False,False,b1f5 b3b6 c7b6 b2b4 g8e8 e2d1,0.0997610092163086
+random,0,6wibd,3,failed,False,False,d6e4 d5d1 f8d8 e7e5 d8d1 b1a2,0.10000181198120117
+random,0,oIexe,3,failed,False,False,b7f3 c2c7 e1b4 b2a2 f3d5 c7c4,0.09995102882385254
+random,0,ubvNj,3,failed,False,False,d3d6 f4f2 d6e6 f2d2 e6e1 d2d3,0.10021781921386719
+random,0,XQk7g,3,failed,False,False,e8e7 f7e8 e7e8 g3g4 c4b5 a4b3,0.09982705116271973
+random,0,n0mly,3,failed,False,False,g5h5 a2a3 g7g5 g4f4 d6d5 f4f1,0.1001589298248291
+random,0,uJg5h,4,failed,False,False,g2h3 f2f4 e1c3 c5e7 e5e4 f6e6 g5f4 e7d8,0.14990592002868652
+random,0,EIH4p,4,failed,False,False,c8b7 d8d7 b7a8 b2b4 c4b3 f6c3 a8e8 a3a4,0.14998126029968262
+random,0,OxWwx,4,failed,False,False,g5g4 e6e3 c5e3 f5f6 e3g1,0.0043489933013916016
+random,0,ZaQgV,4,failed,False,False,d7d8 c2c3 d1e3 g4e4 b7e4 g7g6 h2f2 d4d5,0.14667391777038574
+random,0,Z5UR5,4,failed,False,False,g7g6 d1e2 h8g7 h1d1 c8g4 e2f1 g4d1 d5e3,0.1502079963684082
+random,0,8q1PB,4,failed,False,False,d5c6 d2c3 c6a4 d1d2 f6d5 c3b3 a4b3 e3b6,0.15073585510253906
+random,0,LQrnS,4,failed,False,False,f5e6 b3b6 e5e1 d1e1 e6e1,0.004323005676269531
+random,0,O2XPk,4,failed,False,False,g6g5 f2f8 c3c2 f8f2 c2f2 g2h3 g7g6 e6f6,0.15064406394958496
+random,0,Hnj4Y,4,failed,False,False,g6g5 e7h7 f6e6 h7h6 f2f1 h3h2 e6e2,0.054296255111694336
+random,0,Yjq8m,5,failed,False,False,e7e5 c4b3 e5e3 b3e3 f4e3 c2c4 g7g6 h1h2 e3e2 d1d4,0.1997058391571045
+random,0,qN5hf,4,failed,False,False,g8g7 d8d1 b2a2 d1b1 b7b1 f3g1 e2h2,0.08053827285766602
+random,0,Jlw69,4,failed,False,False,h2e2 f5g3 e2f3 c3d3 e5d3 c1c2 f3g3 c2c3,0.15065979957580566
+random,0,EhSLd,5,failed,False,False,g5h5 h3h4 f4h4 h2g3 h6e3,0.05147409439086914
+random,0,lIuuV,4,failed,False,False,g6f5 e7h7 h8h7 e6g6 f5g6 f3g1 g6g7 f2f3,0.15044713020324707
+random,0,jwoAf,4,failed,False,False,b8f8 c7d7 h3d7 g1a1 f6f1 g2g1 d7h3 a1b1,0.12856507301330566
+random,0,wpVP3,4,failed,False,True,g5h4 f2d2 d7c6 d2d7 c6d7 e1e2 f7f3 f1g2,0.10033392906188965
+random,0,OXzQQ,5,failed,False,False,h8g8 e2b5 e7e3 c1d1 d6b5 f4f5 d7f5 g5e4 a8d8 e4d2,0.18427586555480957
+random,0,N4hGv,5,failed,False,False,g6h6 c3c5 b6c5 f3e5 d3e5 a2a4 d7c6 h2h4 f8g8 g1h2,0.20064902305603027
+random,0,StNKP,5,failed,False,False,g8h7 e1g3 c2g2 g1f1 c6c1 d8d1 c1d1 g3e1 b2f2,0.08382391929626465
+random,0,htXmZ,5,failed,False,False,e8f8 e5g7 f8g7 d5d6 d2f2 h2h1 f2a2 d4d5 a2c4 d6c7,0.20019197463989258
+random,0,SqpzW,5,failed,False,False,f6e4 a2a3 e4c3 g1g7 g8g7 d3c5 c3e2 c1b1 e6f5 b1a1,0.2000119686126709
+random,0,8eA8t,5,failed,False,False,c6b8 a8a6 g7g2,0.001631021499633789
+random,0,b5EI2,5,failed,False,False,f8g8 h1h2 c2d2 h2h3 d2d1,0.05220365524291992
+random,0,4A1nY,5,failed,False,False,g6g5 b1b3 g5f4 g2h2 d8h8 h2g2 f4f3 g2f1 h8h1,0.15189599990844727
+random,0,AcfRx,5,failed,False,False,h8d8 c2d1 d8e8 e1d2 g6e7 a1c1 e7g8 e2d3 e4d3 c1a1,0.20037198066711426
+random,0,EzJAU,5,failed,False,False,g7h8 g6f5 f8g8 f5f7 g8f7 a2a4 c7c2,0.10187411308288574
+random,0,3B2ft,5,failed,False,False,c6f3 b2c1 c7h2,0.0018570423126220703
+random,0,VSBYO,5,failed,False,False,h7g8 h1h4 e7g5 d1e2 g5h4 d2b1 f8f4 e2d3 c4d3 e1f1,0.20033502578735352
+random,0,SDOan,6,failed,False,False,d7d6 g1h1 d6h6 h5g5 b4f8 h7g8 h8g8 g5f4 f8f4 g2g3 f4f3 h1g1,0.2037827968597412
+random,0,5DUpz,6,failed,False,False,f3f2 e1d2 f2d2 d1e1 b1c1,0.051718711853027344
+random,0,XnQjR,6,failed,False,False,b6b2 c4d4 c5d4 g1h1 b2c1 h1h2 c1f4 h2h1 c7c1,0.12569189071655273
+random,0,5XUCx,6,failed,False,False,b2a1 g3g4 a1b2 g4h5 g6h5 d2e3 a2a1q e3d2 a1g1 d2d3 g1g4 d3d2,0.25048112869262695
+random,0,yytQj,6,failed,False,False,b8a8 b6a7 c2g2 g1h1 g2g3,0.008358955383300781
+random,0,bNMng,7,failed,False,False,f2b2 g5f7 b2b1 c1d2 b1d1 d2d1 e7f7 g1g5 f7f1 d1c2 f1b1 c2d2 b8b2 d2e3,0.26826977729797363
+random,0,14YNX,7,failed,False,False,f6g5 a1b1 g5g4 d1a4 d8e8 h4h5 d7e5 a4b5 e8b5 d2e4 e5d3 e1d2 d5e4 h1d1,0.30091214179992676
+random,0,QU1zq,7,failed,False,False,a2b2 h6g5 f6g5 g4f4 g5f4 g3g6 h7g6 g2g3 f4g3 f5g6 f7f2 g1h1 b2b1,0.2171647548675537
+random,0,Fxgpp,7,failed,False,False,h5h6 g7e6 f7e6 f6f3 f8f3 h2h4 c1f1,0.05542707443237305
+random,0,TcHSz,7,failed,False,False,g3h4 e4e3 h4g3 e3e4 g3g2 e4e5 h5h4 e5d4 h4h3 d4e5 h3h2 e5d5 h2h1q d5d4,0.2999379634857178
+random,0,WlZiu,8,failed,False,False,f6f5 g2h1 h4h3 f2f4 a7a6 a3a4 b5a4 h1g1 a4a3 g1f2 a3a2 f2g1 a2a1q g1f2 h5h4 f2e2,0.34995079040527344
+random,0,ExchJ,8,failed,False,False,h3h2 a2a3 h1g1 g3h4 h2h1q h4g4 g1f2 g4f5 h1d5 f5g6 d5f3 a3a4 a7a5 g6g7 f3f4 g7h8,0.3499758243560791
+random,0,BTKVV,8,failed,False,False,f6g5 h1f1 g5h4 g2g3 c5d4 f1h1 d7e5 d3h7 g8h7 d2c4 d5c4 e2h5 h7g8 h5h8 g8h8 f2f4,0.35022425651550293
+random,0,WugZi,8,failed,False,False,f6f5 a4a5 b6a5 g2h2 a5b4 h2h1 b4b3 h1h2 b3b2 h2h1 h4g3 c4c5 b2b1q,0.20224595069885254
+random,0,7lwrT,8,failed,False,False,f6g5 h1h3 g5h4 f2f4 f8f4 d3e4 d5e4 h3h1 d8f8 a2a3 b6c5 a1a2 b7a6 c3b1 f4f1 e1d2,0.35174083709716797
+random,0,40xXh,9,failed,False,False,h6h5 f2g1 h4h3 a3a4 b5a4 g1f2 a4a3 f2f1 a3a2 f1e2 a2a1q b4b5 h3g2 h2h4 a1b2 e2d1 g2f3 d1e1,0.35904502868652344
+random,0,5GtUy,9,failed,False,False,c8h3 f3h2 c3f6 f2e1 f6f2,0.05218100547790527
+random,0,wVpo1,9,failed,False,False,g7g1 e6e7 d4d2,0.0018677711486816406
+random,0,hJXvm,9,failed,False,False,h3h2 d4b6 h2g1q e1e2 h1f3,0.025269031524658203
+random,0,w54hZ,9,failed,False,False,d6d5 f4e2 d5e4 f3g2 d8d1 e2f4 c4f1 g2h2 c7f4,0.13814711570739746
+random,0,kuxpS,10,failed,False,False,g8g7 e1c3 f3g2,0.001940011978149414
+random,0,xLfOP,10,failed,False,True,h7h5 f2f4 b7b6 g2f3 h4h3 b3b4 h5h4 a4a5 b6a5 c4c5 a5b4 f3e2 h3g3 e2f1 h4h3 f1e1 h3h2 e1d1 h2h1q d1c2,0.40027284622192383
+random,0,51aeY,10,failed,False,False,f6g5 f1a1 b6e3 g1h1 h7h3 d7h3 h8h3 g2h3 e3h3 h1g1 g5g4 a2a3 g4g3 a1c1 h3h2 g1f1 h2f2,0.266618013381958
+random,0,vYqmQ,10,failed,False,False,h6h5 g2f2 h4h3 f2g1 h3g3 b3b4 a7a5 a3a4 c5b4 c2c3 d4c3 g1f1 c3c2 f1e2 c2c1q d3d4 b4b3 e2d3 b3b2 d3e2,0.4140768051147461
