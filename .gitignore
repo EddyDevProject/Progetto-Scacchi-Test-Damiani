@@ -2,4 +2,4 @@ venv/
 .venv/
 env/
 data/
-results*/*.pt
+#results*/*.pt
